@@ -37,4 +37,8 @@ This project is a WhatsApp chat analyzer that allows you to analyze and visualiz
 
   ```cd <repository_directory>```
 
+* **Install Dependencies:** ```pip install -r requirements.txt``` (type this in your terminal)
+* **Prepare Data:** Download your WhatsApp chat data and save it as data.txt in the project directory.
+* **Run the Streamlit App:** ```streamlit run main.py```
+
 
