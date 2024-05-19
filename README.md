@@ -31,11 +31,10 @@ This project is a WhatsApp chat analyzer that allows you to analyze and visualiz
 * Choose the save destination on your device storage.
 
 ## Setup Instructions
-* **Clone the Repository:**
+* **Clone the Repository:** Type the below commands in your terminal
 
+  ```git clone <repository_url>```
 
-```git clone <repository_url>```
-
-```cd <repository_directory>```
+  ```cd <repository_directory>```
 
 
