@@ -18,6 +18,7 @@ This project is a WhatsApp chat analyzer that allows you to analyze and visualiz
 
 ## File Structure
 * **main.py:** Contains the Streamlit code required to create the dashboard. To run the program, open your terminal and type:
+  
   ```bash
   streamlit run main.py
   ```
