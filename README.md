@@ -17,7 +17,10 @@ This project is a WhatsApp chat analyzer that allows you to analyze and visualiz
 * **Matplotlib/Seaborn/Wordcloud:** Used to create data visualizations.
 
 ## File Structure
-* **main.py:** Contains the Streamlit code required to create the dashboard. To run the program, open your terminal and type: ```streamlit run main.py```
+* **main.py:** Contains the Streamlit code required to create the dashboard. To run the program, open your terminal and type:
+  ```bash
+  streamlit run main.py
+  ```
 * **pre_processor.py:** Takes raw data from ```data.txt``` and converts it into a consumable DataFrame.
 * **stop_hinglish.txt:** List of Hinglish (Hindi & English mix) stop words that are removed from the data to make the results more meaningful.
 * **data.txt:** Place your WhatsApp raw data in this file. It contains 2-3 lines of dummy data to show you the format of the data.
@@ -33,12 +36,23 @@ This project is a WhatsApp chat analyzer that allows you to analyze and visualiz
 ## Setup Instructions
 * **Clone the Repository:** Type the below commands in your terminal
 
-  ```git clone <repository_url>```
+  ```bash
+  git clone <repository_url>
 
-  ```cd <repository_directory>```
+  cd <repository_directory>
+  ```
 
-* **Install Dependencies:** ```pip install -r requirements.txt``` (type this in your terminal)
+* **Install Dependencies:** Type the below code in your terminal
+
+  ```bash
+  pip install -r requirements.txt
+  ``` 
 * **Prepare Data:** Download your WhatsApp chat data and save it as data.txt in the project directory.
-* **Run the Streamlit App:** ```streamlit run main.py```
+  
+* **Run the Streamlit App:** Type the below code in your terminal
+  
+  ```bash
+  streamlit run main.py
+  ```
 
 
