@@ -1,0 +1,11 @@
+# This is dummy data. Please replace this with your own data. The intent was to show you the data format
+
+24/10/22, 12:22 am - Sam: 😂Haan
+24/10/22, 12:22 am - You're now an admin
+24/10/22, 12:22 am - Joe removed Ethan
+24/10/22, 12:23 am - Joe: @Sam Can you add Ethan? He has two numbers
+24/10/22, 12:23 am - Joe added Ethan
+24/10/22, 12:23 am - Joe: I've done it
+24/10/22, 12:28 am - Nancy: Sam is sleeping
+24/10/22, 1:16 am - Nancy: https://www.youtube.com/watch?v=kJQP7kiw5Fk&ab_channel=LuisFonsiVEVO
+24/10/22, 2:07 am - Joe: Nice song..👍🏻heard it at a friend's party
