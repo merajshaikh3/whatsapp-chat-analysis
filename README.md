@@ -17,6 +17,25 @@ This project is a WhatsApp chat analyzer that allows you to analyze and visualiz
 * **Matplotlib/Seaborn/Wordcloud:** Used to create data visualizations.
 
 ## File Structure
-* **main.py:** Contains the Streamlit code required to create the dashboard. To run the program, open your terminal and type:
-  ```streamlit run main.py```
+* **main.py:** Contains the Streamlit code required to create the dashboard. To run the program, open your terminal and type: ```streamlit run main.py```
+* **pre_processor.py:** Takes raw data from ```data.txt``` and converts it into a consumable DataFrame.
+* **stop_hinglish.txt:** List of Hinglish (Hindi & English mix) stop words that are removed from the data to make the results more meaningful.
+* **data.txt:** Place your WhatsApp raw data in this file. It contains 2-3 lines of dummy data to show you the format of the data.
+
+## How to Download Data Dump from WhatsApp
+* Open the WhatsApp group chat.
+* Tap the More options menu (three dots).
+* Tap More.
+* Tap Export chat.
+* Choose whether to export with media or without media.
+* Choose the save destination on your device storage.
+
+## Setup Instructions
+* **Clone the Repository:**
+
+
+```git clone <repository_url>```
+
+```cd <repository_directory>```
+
 
